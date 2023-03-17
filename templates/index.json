@@ -222,10 +222,21 @@
             "button_label": "Button label",
             "button_link": ""
           }
+        },
+        "71ce0745-23c7-497f-8b6c-0ab21084a2a5": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/glass-with-iced-red-beverage-reflects-on-a-white-table.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
-        "2cdbfd02-badc-4c41-a5bd-5cf21c7623c6"
+        "2cdbfd02-badc-4c41-a5bd-5cf21c7623c6",
+        "71ce0745-23c7-497f-8b6c-0ab21084a2a5"
       ],
       "settings": {
         "slide_height": "adapt",
